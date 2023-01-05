@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Projeto de site utilizando o Usando o LocalStorage.
+Projeto de site utilizando o LocalStorage para criar uma base de dados.
 
 ## Layout web
 ![Mobile 1](https://github.com/evandrolucas60/readme-assets-repository/blob/main/Or%C3%A7amentoPessoal.gif)
