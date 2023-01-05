@@ -12,7 +12,6 @@ Projeto de site utilizando o Usando o LocalStorage.
 
 ## Front end
 - HTML
-- CSS
 - Javascript
 
 
